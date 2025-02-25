@@ -1,0 +1,87 @@
+body{
+    background-color:blanchedalmond;
+}
+#grow{
+    font-size:50px;
+    color: blueviolet;
+    font-family:serif;
+    position: absolute;
+    top:150px;
+    left:120px;
+}
+
+#tech{
+    font-size: 16px;
+    position: absolute;
+    top:310px;
+    left:120px;
+}
+#im1{
+    width: 280px;
+    border-radius: 10px;
+    position: absolute;
+    top:110px;
+    left:590px;
+    transition:0.5s;
+}
+#im2{
+    width: 280px;
+    border-radius: 10px;
+    position: absolute;
+    top:110px;
+    left:890px;
+    transition:0.5s;
+}
+#im3{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    position: absolute;
+    top:320px;
+    left:890px;
+    transition:0.5s;
+}
+#menu{
+    position: absolute;
+    top:410px;
+    left:120px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    transition:1s;
+}
+#menu1{
+    position: absolute;
+    top:410px;
+    left:330px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:rgb(109, 99, 99);
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition:0.5s;
+}
+#menu:hover{
+    color: blue;
+    background-color: aliceblue;
+}
+#menu1:hover{
+    color:rgb(109, 99, 99);
+    background-color: aliceblue ;
+    
+}
+img:hover{
+    transform: scale(1.1);
+
+}
+a{
+    text-decoration: none;
+}
+#h1{
+    display:flex;
+}
