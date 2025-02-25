@@ -1,0 +1,36 @@
+body{
+    padding:0;
+    margin: 0;
+    text-align: center;
+}
+#pa{
+    color: blue;
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.sec{
+    margin:100px 100px;
+    display: inline-block;
+    background-color: grey;
+    padding: 10px;
+    border-radius: 18px;
+}
+form{
+   font-size: 20px;
+   
+}
+#textbox{
+    border-radius: 4px;
+    border: none;
+    padding: 3px 5px;
+}
+#button{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    background-color: blue;
+    padding: 4px 8px;
+    border-radius: 6px;
+}
